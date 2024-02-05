@@ -17,7 +17,7 @@ public class HelloJava {
 	}
 
 	public static void say(String message) {
-		System.out.println("Hello JAVA2!!");
+		System.out.println("Hello JAVA23!!");
 		System.out.println(message);
 	}
 }
